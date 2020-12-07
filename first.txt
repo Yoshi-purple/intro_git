@@ -7,5 +7,6 @@ gitの練習をしていきます。
 ・git rm
 ・git status
 ・git diff
+.git add .
 
 Macbookで編集しています
